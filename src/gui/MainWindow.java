@@ -87,7 +87,7 @@ public class MainWindow extends JPanel {
                         "Shift + Click derecho    :    Establecer nodo como destino\n" +
                         "Ctrl  + Arrastrar               :    Reposicionar nodo\n" +
                         "Ctrl  + Click                :    Obtener ruta de nodo\n" +
-                        "Ctrl  + Shift + Click   :    Eliminar Node/Edge\n");
+                        "Ctrl  + Shift + Click   :    Eliminar Nodo\n");
             }
         });
 

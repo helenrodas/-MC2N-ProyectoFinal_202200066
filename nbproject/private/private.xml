@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/algo/DijkstraAlgorithm.java</file>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/models/Edge.java</file>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/models/Graph.java</file>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/models/Node.java</file>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/Main.java</file>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/gui/DrawUtils.java</file>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/gui/GraphPanel.java</file>
+            <file>file:/P:/Programacion/PracticasJava/EjemploGrafos/src/gui/MainWindow.java</file>
+        </group>
     </open-files>
 </project-private>
